@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+}
+
+div {
+    text-align: center;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    background-color: darkgreen;
+    color: white;
+}
